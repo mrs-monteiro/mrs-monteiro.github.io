@@ -1,1 +1,2 @@
-Portefólio profissional V5 — licenciatura sem data de conclusão. Para publicar, colocar index.html na raiz do repositório GitHub Pages.
+MRS MONTEIRO — atualização da formação IEFP.
+Substituir o index.html no repositório GitHub Pages. Não publicar certificados não anonimizados.
