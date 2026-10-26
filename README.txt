@@ -1,5 +1,2 @@
-Versão premium do topo com fotografia mais pequena e aspeto mais executivo.
-Ficheiros a carregar para a raiz do repositório:
-- index.html
-- miguel-monteiro-profile.png
-- README.txt (opcional)
+MRS MONTEIRO — versão premium + Cloudflare Web Analytics.
+Substituir index.html e garantir que miguel-monteiro-profile.png está na raiz do repositório.
