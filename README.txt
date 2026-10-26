@@ -1,2 +1,1 @@
-MRS MONTEIRO — versão premium + Cloudflare Web Analytics.
-Substituir index.html e garantir que miguel-monteiro-profile.png está na raiz do repositório.
+MRS MONTEIRO: 25 entradas académicas. Novos temas: BetUAB, modelos energéticos em R, compilador MOCC, raciocínio lógico e sistemas distribuídos. HTML bilingue, Cloudflare Analytics mantido. Publicar os ficheiros na raiz do repositório, sem PDFs académicos.
