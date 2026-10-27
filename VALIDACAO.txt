@@ -1,0 +1,4 @@
+VERSÃO V5 DE TESTE. Não publicar sem validar.
+Alterações: copy PT, SEO, OG image, robots/sitemap, filtros projetos académicos, acessibilidade e responsividade.
+Conservados fotografia, analytics, PT/EN e conteúdos.
+Segurança: verificar HTTPS, DNS e configuração GitHub Pages separadamente.
