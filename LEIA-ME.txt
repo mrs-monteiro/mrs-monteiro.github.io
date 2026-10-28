@@ -1,0 +1,9 @@
+MRS Learning Lab V2 — extensão conservadora da V1.
+
+Publicação: carregar apenas a pasta lab/ completa na raiz do repositório GitHub Pages, substituindo os ficheiros homónimos em lab/. Não alterar o index.html da raiz nem assets/.
+
+Teste: abrir lab/index.html; testar Explorador, BFS/A*, Treino para estudantes, PT/EN e refresh do navegador. Progresso guardado em localStorage quando disponível.
+
+9 desafios: 3 iniciante, 3 intermédio, 3 avançado; pistas, validação, explicações. Não há login, envio de respostas nem LLM.
+
+Este material é um módulo didático novo, não uma publicação dos relatórios/avaliações originais.
