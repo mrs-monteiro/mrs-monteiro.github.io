@@ -1,0 +1,1 @@
+(function(){const buttons=document.querySelectorAll('.filter-btn');const cards=document.querySelectorAll('.training-card');buttons.forEach(b=>b.addEventListener('click',()=>{const f=b.dataset.filter;buttons.forEach(x=>{x.classList.toggle('active',x===b);x.setAttribute('aria-pressed',String(x===b));});cards.forEach(c=>{c.hidden=f!=='all'&&c.dataset.category!==f;});}));})();
