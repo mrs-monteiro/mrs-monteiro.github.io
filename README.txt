@@ -1,1 +1,1 @@
-MRS MONTEIRO: 25 entradas académicas. Novos temas: BetUAB, modelos energéticos em R, compilador MOCC, raciocínio lógico e sistemas distribuídos. HTML bilingue, Cloudflare Analytics mantido. Publicar os ficheiros na raiz do repositório, sem PDFs académicos.
+V4: fotografia original fornecida pelo utilizador; dimensao visual limitada a 168px (148px em mobile). Alteracao apenas de CSS da fotografia e do ficheiro PNG. Nao altera o restante website.
